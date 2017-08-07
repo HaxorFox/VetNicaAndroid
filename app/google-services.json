@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "916542329835",
+    "firebase_url": "https://vetnica-bf7f5.firebaseio.com",
+    "project_id": "vetnica-bf7f5",
+    "storage_bucket": "vetnica-bf7f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916542329835:android:3c30e30ff264b1e5",
+        "android_client_info": {
+          "package_name": "com.hxrsoft.vetnica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916542329835-03e5g2lpefqcemb9cba9a6guokbpi5u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hxrsoft.vetnica",
+            "certificate_hash": "c6366d1f8b1717a789cd086f3f674e96f65a0652"
+          }
+        },
+        {
+          "client_id": "916542329835-6ucrnsnacio6825d9muu17bfus027jil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjIEhqNojcHWypCIGkvcocGyJNGT8gS3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916542329835-6ucrnsnacio6825d9muu17bfus027jil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
