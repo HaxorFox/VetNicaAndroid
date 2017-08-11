@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">VetNica</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="api_key_maps">AIzaSyDP-69e34C6xIO6NdhS_oh_o9AY2wn-R3s</string>
+    <string name="title_activity_maps">Mapa de las Veterinarias</string>
 </resources>
