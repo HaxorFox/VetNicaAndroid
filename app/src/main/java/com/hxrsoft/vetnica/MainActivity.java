@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.hxrsoft.vetnica.model.Main2Activity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -17,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent (v.getContext(), MapsActivity.class);
+                Intent intent = new Intent (v.getContext(), Main2Activity.class);
                 startActivityForResult(intent, 0);
             }
         });
