@@ -2,5 +2,8 @@
 <resources>
     <color name="colorPrimary">#ff8137</color>
     <color name="colorPrimaryDark">#b15926</color>
-    <color name="colorAccent">#ae0600</color>
+    <color name="colorAccent">#f97740</color>
+
+    <color name="bg_splash">#adf0f4</color>
+
 </resources>
